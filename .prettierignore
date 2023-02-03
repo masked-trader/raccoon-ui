@@ -1,0 +1,11 @@
+*.svg
+*.js.snap
+
+.github/
+.husky/
+.vscode/
+.yarn/
+
+build/
+public/
+locale/
